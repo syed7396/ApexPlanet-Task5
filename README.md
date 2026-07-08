@@ -50,11 +50,11 @@ ApexPlanet-Task5/
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Task5_WebDevelopment/screenshots/home.png)
 
 ### 🛒 Shopping Cart
 
-![Shopping Cart](screenshots/cart.png)
+![Shopping Cart](Task5_WebDevelopment/screenshots/cart.png)
 
 ---
 
